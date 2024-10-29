@@ -1,4 +1,3 @@
-[![MasterHead](https://i0.wp.com/iemlabs.com/blogs/wp-content/uploads/sites/4/2022/12/Front-end-back-end.webp?fit=1200%2C628&ssl=1)](https://koskata.io)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Konstantin+Ganev!;" />
 </h1>
